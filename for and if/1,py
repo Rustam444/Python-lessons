@@ -1,0 +1,10 @@
+name=input("film nomini kirit:")
+yosh=int(input("yoshingni kirit:"))
+if yosh<12:
+    print("Animatsiya yoki Oila janridagi filmlarni ko'ring")
+if 12<=yosh<=18:
+    print("Action  yoki Sarguzasht janridagi filmlarni ko'ring")
+if 18<yosh<=60:
+    print("Drama  yoki Komidiya janridagi filmlarni ko'ring")
+if 60<yosh:
+    print("Dokimental  yoki Classic janridagi filmlarni ko'ring")
