@@ -1,0 +1,7 @@
+lst = [(0,2,0,0), (0,3,2,2), (1,3,2,4,3), (4,1,2,4)]
+for i in range(len(lst)):
+    temp = []
+    for x in lst[i]:
+        temp.append(lst[i].count(x))
+    lst[i] = tuple(temp)
+print(lst)
