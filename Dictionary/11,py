@@ -1,0 +1,13 @@
+employees = {
+    "101": "Ali",
+    "102": "Bobur",
+    "103": "Madina"
+    }
+x=input("Id ni kiritgin:")
+if x in employees:
+    del employees[x]
+    print(f"{x}-id li xodim o'chirildi!")
+    print(employees)
+else:
+    print("bunday id topilmadi")
+    print(employees)
