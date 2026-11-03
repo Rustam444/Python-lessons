@@ -1,0 +1,2 @@
+om"]=="Tashkent":
+        #     print(i)

@@ -1,0 +1,102 @@
+[
+    {
+        "name": "Pizza Margarita",
+        "category": "Pizza",
+        "price": 55000
+    },
+    {
+        "name": "Pizza Pepperoni",
+        "category": "Pizza",
+        "price": 65000
+    },
+    {
+        "name": "Pizza BBQ Chicken",
+        "category": "Pizza",
+        "price": 70000
+    },
+    {
+        "name": "Pizza Four Cheese",
+        "category": "Pizza",
+        "price": 75000
+    },
+    {
+        "name": "Pizza Veggie",
+        "category": "Pizza",
+        "price": 60000
+    },
+    {
+        "name": "Shashlik Mol go‘shti",
+        "category": "Shashlik",
+        "price": 18000
+    },
+    {
+        "name": "Shashlik Tovuq go‘shti",
+        "category": "Shashlik",
+        "price": 15000
+    },
+    {
+        "name": "Kabob qo‘y go‘shti",
+        "category": "Shashlik",
+        "price": 20000
+    },
+    {
+        "name": "Lag‘mon",
+        "category": "Milliy taom",
+        "price": 30000
+    },
+    {
+        "name": "Mastava",
+        "category": "Milliy taom",
+        "price": 25000
+    },
+    {
+        "name": "Somsa mol go‘shti",
+        "category": "Somsa",
+        "price": 10000
+    },
+    {
+        "name": "Somsa tovuq go‘shti",
+        "category": "Somsa",
+        "price": 9000
+    },
+    {
+        "name": "Somsa kartoshka",
+        "category": "Somsa",
+        "price": 8000
+    },
+    {
+        "name": "Choy qora",
+        "category": "Ichimlik",
+        "price": 5000
+    },
+    {
+        "name": "Choy ko‘k",
+        "category": "Ichimlik",
+        "price": 5000
+    },
+    {
+        "name": "Coca Cola 1L",
+        "category": "Ichimlik",
+        "price": 12000
+    },
+    {
+        "name": "Fanta 1L",
+        "category": "Ichimlik",
+        "price": 12000
+    },
+    {
+        "name": "Pepsi 1L",
+        "category": "Ichimlik",
+        "price": 12000
+    },
+    {
+        "name": "Qovurilgan Kartoshka",
+        "category": "Fast Food",
+        "price": 15000
+    },
+    {
+        "name": "Burger Tovuq",
+        "category": "Fast Food",
+        "price": 25000
+    }
+]

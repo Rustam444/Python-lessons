@@ -1,0 +1,142 @@
+[
+    {
+        "flight": "HY101",
+        "from": "Tashkent",
+        "to": "Istanbul",
+        "price": 320,
+        "seats": 180
+    },
+    {
+        "flight": "HY102",
+        "from": "Tashkent",
+        "to": "Moscow",
+        "price": 250,
+        "seats": 200
+    },
+    {
+        "flight": "HY103",
+        "from": "Tashkent",
+        "to": "Dubai",
+        "price": 400,
+        "seats": 170
+    },
+    {
+        "flight": "HY104",
+        "from": "Tashkent",
+        "to": "Seoul",
+        "price": 550,
+        "seats": 190
+    },
+    {
+        "flight": "HY105",
+        "from": "Tashkent",
+        "to": "New York",
+        "price": 950,
+        "seats": 220
+    },
+    {
+        "flight": "HY106",
+        "from": "Samarkand",
+        "to": "Istanbul",
+        "price": 310,
+        "seats": 160
+    },
+    {
+        "flight": "HY107",
+        "from": "Bukhara",
+        "to": "Moscow",
+        "price": 240,
+        "seats": 150
+    },
+    {
+        "flight": "HY108",
+        "from": "Tashkent",
+        "to": "Paris",
+        "price": 600,
+        "seats": 180
+    },
+    {
+        "flight": "HY109",
+        "from": "Tashkent",
+        "to": "London",
+        "price": 720,
+        "seats": 200
+    },
+    {
+        "flight": "HY110",
+        "from": "Urgench",
+        "to": "Istanbul",
+        "price": 330,
+        "seats": 170
+    },
+    {
+        "flight": "HY111",
+        "from": "Tashkent",
+        "to": "Berlin",
+        "price": 580,
+        "seats": 190
+    },
+    {
+        "flight": "HY112",
+        "from": "Tashkent",
+        "to": "Rome",
+        "price": 620,
+        "seats": 200
+    },
+    {
+        "flight": "HY113",
+        "from": "Tashkent",
+        "to": "Delhi",
+        "price": 350,
+        "seats": 175
+    },
+    {
+        "flight": "HY114",
+        "from": "Andijan",
+        "to": "Moscow",
+        "price": 260,
+        "seats": 160
+    },
+    {
+        "flight": "HY115",
+        "from": "Namangan",
+        "to": "Istanbul",
+        "price": 300,
+        "seats": 150
+    },
+    {
+        "flight": "HY116",
+        "from": "Tashkent",
+        "to": "Beijing",
+        "price": 700,
+        "seats": 210
+    },
+    {
+        "flight": "HY117",
+        "from": "Tashkent",
+        "to": "Kuala Lumpur",
+        "price": 670,
+        "seats": 200
+    },
+    {
+        "flight": "HY118",
+        "from": "Tashkent",
+        "to": "Tokyo",
+        "price": 820,
+        "seats": 195
+    },
+    {
+        "flight": "HY119",
+        "from": "Tashkent",
+        "to": "Frankfurt",
+        "price": 610,
+        "seats": 185
+    },
+    {
+        "flight": "HY120",
+        "from": "Tashkent",
+        "to": "Madrid",
+        "price": 640,
+        "seats": 190
+    }
+]
