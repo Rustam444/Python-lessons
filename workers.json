@@ -1,0 +1,8 @@
+[
+ {"id": 101, "full_name": " ali Valiyev ", "role": "developer", "salary": 1200, "skills":
+["Python", "Django", "SQL", "Python"], "is_active": true},
+{"id": 103, "full_name": " malika jamolova ", "role": "developer", "salary": 1500,
+"skills": ["Python", "FastAPI", "Docker", "SQL"], "is_active": true},
+ {"id": 104, "full_name": "jasur kasimov", "role": "devops", "salary": 1100, "skills":
+["Linux", "Docker", "Linux", "Bash"], "is_active": false}
+ ]
