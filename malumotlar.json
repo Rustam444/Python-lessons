@@ -1,0 +1,18 @@
+{ "mahsulotlar": [
+    {"id": 101, "nomi": "Non", "kategoriya": "oziq-ovqat", "narx": 4000, "soni": 120, "brend": "Mahalliy", "chegirma": 0, "muddat_kun": 2, "mavjud": true},
+    {"id": 102, "nomi": "Sut 1L", "kategoriya": "sut mahsulotlari", "narx": 12000, "soni": 60, "brend": "Lactel", "chegirma": 5, "muddat_kun": 7, "mavjud": true},
+    {"id": 103, "nomi": "Tuxum (10 dona)", "kategoriya": "oziq-ovqat", "narx": 15000, "soni": 80, "brend": "Parrandachilik", "chegirma": 0, "muddat_kun": 20, "mavjud": true},
+    {"id": 104, "nomi": "Yogurt", "kategoriya": "sut mahsulotlari", "narx": 9000, "soni": 0, "brend": "Danone", "chegirma": 10, "muddat_kun": 10, "mavjud": false},
+    {"id": 105, "nomi": "Guruch 1kg", "kategoriya": "oziq-ovqat", "narx": 18000, "soni": 200, "brend": "Devzira", "chegirma": 0, "muddat_kun": 365, "mavjud": true},
+    {"id": 106, "nomi": "Choy 100g", "kategoriya": "ichimlik", "narx": 14000, "soni": 45, "brend": "Ahmad", "chegirma": 15, "muddat_kun": 540, "mavjud": true},
+    {"id": 107, "nomi": "Cola 1.5L", "kategoriya": "ichimlik", "narx": 11000, "soni": 90, "brend": "Coca-Cola", "chegirma": 0, "muddat_kun": 180, "mavjud": true},
+    {"id": 108, "nomi": "Simsiz quloqchin", "kategoriya": "elektronika", "narx": 350000, "soni": 15, "brend": "Xiaomi", "chegirma": 20, "muddat_kun": null, "mavjud": true},
+    {"id": 109, "nomi": "Powerbank 10000mAh", "kategoriya": "elektronika", "narx": 220000, "soni": 0, "brend": "Baseus", "chegirma": 0, "muddat_kun": null, "mavjud": false},
+    {"id": 110, "nomi": "USB flesh 64GB", "kategoriya": "elektronika", "narx": 85000, "soni": 40, "brend": "Kingston", "chegirma": 5, "muddat_kun": null, "mavjud": true},
+    {"id": 111, "nomi": "Sichqoncha", "kategoriya": "kompyuter", "narx": 120000, "soni": 25, "brend": "Logitech", "chegirma": 10, "muddat_kun": null, "mavjud": true},
+    {"id": 112, "nomi": "Klaviatura", "kategoriya": "kompyuter", "narx": 280000, "soni": 12, "brend": "A4Tech", "chegirma": 0, "muddat_kun": null, "mavjud": true},
+    {"id": 113, "nomi": "Daftar 96 varaq", "kategoriya": "kantselyariya", "narx": 7000, "soni": 300, "brend": "Mahalliy", "chegirma": 0, "muddat_kun": null, "mavjud": true},
+    {"id": 114, "nomi": "Ruchka (5 dona)", "kategoriya": "kantselyariya", "narx": 10000, "soni": 150, "brend": "Pilot", "chegirma": 0, "muddat_kun": null, "mavjud": true},
+    {"id": 115, "nomi": "Olma 1kg", "kategoriya": "meva", "narx": 16000, "soni": 70, "brend": "Mahalliy", "chegirma": 5, "muddat_kun": 14, "mavjud": true}
+  ]
+}
